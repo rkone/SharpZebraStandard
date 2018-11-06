@@ -7,8 +7,8 @@
     <ProjectGuid>{022E8470-7C42-42FB-9FAB-919F34061327}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SharpZebra.DesktopPrinting</RootNamespace>
-    <AssemblyName>SharpZebra.DesktopPrinting</AssemblyName>
+    <RootNamespace>SharpZebraStandard.DesktopPrinting</RootNamespace>
+    <AssemblyName>SharpZebraStandard.DesktopPrinting</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
