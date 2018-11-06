@@ -13,6 +13,11 @@
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
     <TargetFrameworkProfile />
+    <PackageId>SharpZebraStandard.DesktopPrinting</PackageId>
+    <PackageVersion>1.0.0</PackageVersion>
+    <Description>SharpZebraStandard.DesktopPrinting</Description>
+    <Authors>rkone</Authors>
+    <PackageReleaseNotes>Adds printing to USB, Shared printers from .NET Framework 4.7.2 applications</PackageReleaseNotes>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -32,6 +37,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AutoGenerateBindingRedirects>false</AutoGenerateBindingRedirects>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />

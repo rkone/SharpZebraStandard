@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("SharpZebra.DesktopPrinting")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Adds printing to USB and networked Zebra label printers")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("rkone")]
 [assembly: AssemblyProduct("SharpZebra.DesktopPrinting")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
