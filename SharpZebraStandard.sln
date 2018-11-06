@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28010.2050
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpZebraStandard", "SharpZebraStandard\SharpZebraStandard.csproj", "{025C0287-FAC7-45E4-AC53-DD97A317CB3B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpZebraStandard.DesktopPrinting", "SharpZebra.DesktopPrinting\SharpZebraStandard.DesktopPrinting.csproj", "{022E8470-7C42-42FB-9FAB-919F34061327}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpZebraStandard.DesktopPrinting", "SharpZebraStandard.DesktopPrinting\SharpZebraStandard.DesktopPrinting.csproj", "{022E8470-7C42-42FB-9FAB-919F34061327}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
